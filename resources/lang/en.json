@@ -1,0 +1,6 @@
+{
+    "crud.payment.cancel_charge": "Cancel Charge",
+    "api.transaction.user_trip_cancel": "wrider cancellation charge",
+    "admin.dispute_msgs.saved": "Support Request summited",
+    "crud.inputs.sos_number": "SOS Number"
+}
